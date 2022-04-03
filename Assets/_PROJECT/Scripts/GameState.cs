@@ -4,8 +4,6 @@ using UnityEngine;
 
 public static class GameState
 {
-    public static float musicVolume;
-    public static float sfxVolume;
-
-
+    public static int enemiesKilled;
+    public static float survivedTime;
 }

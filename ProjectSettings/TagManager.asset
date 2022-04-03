@@ -6,6 +6,7 @@ TagManager:
   tags:
   - Music
   - Sfx
+  - Enemy
   layers:
   - Default
   - TransparentFX

@@ -2,15 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d73d5954-4fc0-4919-b30b-a928a94a8ee5" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.ldjam50-compo/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.ldjam50-compo/.idea/contentModel.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.ldjam50-compo/.idea/indexLayout.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.ldjam50-compo/.idea/indexLayout.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.ldjam50-compo/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.ldjam50-compo/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/MainMenu.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/MainMenu.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/_PROJECT/Art/Kenney.nl/UI/buttonBlue.png" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/_PROJECT/Art/Kenney.nl/UI/buttonBlue.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/_PROJECT/Art/Kenney.nl/UI/buttonBlue.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/_PROJECT/Art/Kenney.nl/UI/buttonBlue.png.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/_PROJECT/Prefabs/Default Button.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/_PROJECT/Prefabs/Default Button.prefab" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/_PROJECT/Prefabs/Default Slider Setting.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/_PROJECT/Prefabs/Default Slider Setting.prefab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_PROJECT/Scenes/Game.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/_PROJECT/Scenes/Game.unity" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/_PROJECT/Scenes/MainMenu.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/_PROJECT/Scenes/MainMenu.unity" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectSettings/EditorBuildSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/EditorBuildSettings.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_PROJECT/Scripts/GameState.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/_PROJECT/Scripts/GameState.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_PROJECT/Scripts/MainMenu.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/_PROJECT/Scripts/MainMenu.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Packages/manifest.json" beforeDir="false" afterPath="$PROJECT_DIR$/Packages/manifest.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Packages/packages-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/Packages/packages-lock.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ProjectSettings/TagManager.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/TagManager.asset" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -22,12 +22,18 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="HighlightingSettingsPerFile">
-    <setting file="file://$PROJECT_DIR$/Assets/_PROJECT/Scripts/MainMenu.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/_PROJECT/Scripts/GameState.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/PlayerDeath.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/_PROJECT/Scripts/DestroyAfterTime.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/GameOverPanel.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/SceneLoader.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/yScroller.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/_PROJECT/Scripts/MainMenu.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/KillCounter.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/_PROJECT/Scripts/OxygenPickup.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <changedPaths>
-      <option value="$PROJECT_DIR$/Assets/_PROJECT/Scripts/GameState.cs" />
       <option value="$PROJECT_DIR$/Assets/DontDestroy.cs" />
       <option value="$PROJECT_DIR$/Assets/MusicSource.cs" />
       <option value="$PROJECT_DIR$/Assets/FloatVar.cs" />
@@ -37,7 +43,46 @@
       <option value="$PROJECT_DIR$/Assets/_PROJECT/Scripts/FloatVar.cs" />
       <option value="$PROJECT_DIR$/Assets/_PROJECT/Scripts/AudioSourceUpdater.cs" />
       <option value="$PROJECT_DIR$/Assets/_PROJECT/Scripts/FloatSettingApplier.cs" />
+      <option value="$PROJECT_DIR$/Assets/_PROJECT/Scripts/ModelHolder.cs" />
+      <option value="$PROJECT_DIR$/Assets/_PROJECT/Scripts/SpriteHolder.cs" />
+      <option value="$PROJECT_DIR$/Assets/PlayerController.cs" />
+      <option value="$PROJECT_DIR$/Assets/PlayerMovement.cs" />
+      <option value="$PROJECT_DIR$/Assets/PlayerGun.cs" />
       <option value="$PROJECT_DIR$/Assets/_PROJECT/Scripts/MainMenu.cs" />
+      <option value="$PROJECT_DIR$/Assets/SkinLoader.cs" />
+      <option value="$PROJECT_DIR$/Assets/_PROJECT/Scripts/DestroyAfterTime.cs" />
+      <option value="$PROJECT_DIR$/Assets/Killable.cs" />
+      <option value="$PROJECT_DIR$/Assets/OxygenUser.cs" />
+      <option value="$PROJECT_DIR$/Assets/_PROJECT/Scripts/PlayerGun.cs" />
+      <option value="$PROJECT_DIR$/Assets/FireAtPlayer.cs" />
+      <option value="$PROJECT_DIR$/Assets/_PROJECT/Scripts/LaserGun.cs" />
+      <option value="$PROJECT_DIR$/Assets/Bullet.cs" />
+      <option value="$PROJECT_DIR$/Assets/_PROJECT/Scripts/Bullet.cs" />
+      <option value="$PROJECT_DIR$/Assets/MoveToYPosition.cs" />
+      <option value="$PROJECT_DIR$/Assets/MoveSideToSide.cs" />
+      <option value="$PROJECT_DIR$/Assets/DestroyAfterAnimation.cs" />
+      <option value="$PROJECT_DIR$/Assets/ScrollingBackground.cs" />
+      <option value="$PROJECT_DIR$/Assets/EnnemySpawner.cs" />
+      <option value="$PROJECT_DIR$/Assets/GameManager.cs" />
+      <option value="$PROJECT_DIR$/Assets/PlaySoundOnSpawn.cs" />
+      <option value="$PROJECT_DIR$/Assets/PlaySoundOnCollect.cs" />
+      <option value="$PROJECT_DIR$/Assets/PlaySound.cs" />
+      <option value="$PROJECT_DIR$/Assets/HealthPickup.cs" />
+      <option value="$PROJECT_DIR$/Assets/OxygenPickup.cs" />
+      <option value="$PROJECT_DIR$/Assets/_PROJECT/Scripts/OxygenPickup.cs" />
+      <option value="$PROJECT_DIR$/Assets/LootSpawner.cs" />
+      <option value="$PROJECT_DIR$/Assets/yScroller.cs" />
+      <option value="$PROJECT_DIR$/Assets/_PROJECT/Scripts/HealthPickup.cs" />
+      <option value="$PROJECT_DIR$/Assets/_PROJECT/Scripts/EnnemySpawner.cs" />
+      <option value="$PROJECT_DIR$/Assets/SceneLoader.cs" />
+      <option value="$PROJECT_DIR$/Assets/_PROJECT/Scripts/EnemySpawner.cs" />
+      <option value="$PROJECT_DIR$/Assets/_PROJECT/Scripts/Killable.cs" />
+      <option value="$PROJECT_DIR$/Assets/KillCounter.cs" />
+      <option value="$PROJECT_DIR$/Assets/_PROJECT/Scripts/GameManager.cs" />
+      <option value="$PROJECT_DIR$/Assets/GameOverPanel.cs" />
+      <option value="$PROJECT_DIR$/Assets/_PROJECT/Scripts/PlaySoundOnSpawn.cs" />
+      <option value="$PROJECT_DIR$/Assets/PlayerDeath.cs" />
+      <option value="$PROJECT_DIR$/Assets/_PROJECT/Scripts/GameState.cs" />
     </changedPaths>
   </component>
   <component name="ProjectId" id="27EUbf5Mcgro6GEOwHLnf3PIUcw" />
@@ -87,6 +132,7 @@
       <option name="presentableId" value="Default" />
       <updated>1648884816636</updated>
       <workItem from="1648884852586" duration="2546000" />
+      <workItem from="1648968969903" duration="17555000" />
     </task>
     <servers />
   </component>
@@ -105,6 +151,7 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
