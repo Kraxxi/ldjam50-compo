@@ -13,6 +13,7 @@
       <change beforePath="$PROJECT_DIR$/Assets/_PROJECT/Scenes/MainMenu.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/_PROJECT/Scenes/MainMenu.unity" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/_PROJECT/Scripts/EnemySpawner.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/_PROJECT/Scripts/EnemySpawner.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/_PROJECT/Scripts/MoveSideToSide.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/_PROJECT/Scripts/MoveSideToSide.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_PROJECT/Scripts/PlaySound.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/_PROJECT/Scripts/PlaySound.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/_PROJECT/Scripts/PlayerMovement.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/_PROJECT/Scripts/PlayerMovement.cs" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -31,7 +32,6 @@
   </component>
   <component name="IdeDocumentHistory">
     <changedPaths>
-      <option value="$PROJECT_DIR$/Assets/DontDestroy.cs" />
       <option value="$PROJECT_DIR$/Assets/MusicSource.cs" />
       <option value="$PROJECT_DIR$/Assets/FloatVar.cs" />
       <option value="$PROJECT_DIR$/Assets/MainMenu.cs" />
@@ -79,9 +79,10 @@
       <option value="$PROJECT_DIR$/Assets/PlayerDeath.cs" />
       <option value="$PROJECT_DIR$/Assets/_PROJECT/Scripts/GameState.cs" />
       <option value="$PROJECT_DIR$/Assets/GameOverPanel.cs" />
-      <option value="$PROJECT_DIR$/Assets/_PROJECT/Scripts/EnemySpawner.cs" />
       <option value="$PROJECT_DIR$/Assets/_PROJECT/Scripts/MoveSideToSide.cs" />
       <option value="$PROJECT_DIR$/Assets/_PROJECT/Scripts/PlayerMovement.cs" />
+      <option value="$PROJECT_DIR$/Assets/_PROJECT/Scripts/PlaySound.cs" />
+      <option value="$PROJECT_DIR$/Assets/_PROJECT/Scripts/EnemySpawner.cs" />
     </changedPaths>
   </component>
   <component name="ProjectId" id="27EUbf5Mcgro6GEOwHLnf3PIUcw" />
@@ -131,7 +132,7 @@
       <option name="presentableId" value="Default" />
       <updated>1648884816636</updated>
       <workItem from="1648884852586" duration="2546000" />
-      <workItem from="1648968969903" duration="19838000" />
+      <workItem from="1648968969903" duration="20677000" />
     </task>
     <servers />
   </component>
