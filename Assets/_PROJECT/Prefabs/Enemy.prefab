@@ -370,7 +370,6 @@ GameObject:
   - component: {fileID: 1548629329}
   - component: {fileID: 1548629330}
   - component: {fileID: 6491411220644498480}
-  - component: {fileID: 259434342}
   - component: {fileID: 3519976166423854462}
   m_Layer: 0
   m_Name: Enemy
@@ -589,21 +588,9 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   lootPrefabs:
   - {fileID: 5621799567475863867, guid: aa5027b3299eb454f8c1d4a220d2a20a, type: 3}
-  - {fileID: 7254587821418372789, guid: 6c05ae9259a8fb140b5c4451dfa66c5c, type: 3}
   - {fileID: 5621799567475863867, guid: 2de7e777495a5ba468704acb1f2bafb3, type: 3}
---- !u!114 &259434342
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 5391676418151420797}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 7a4e04ed61f9b68489109a5e69d07240, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  lootPrefabs: []
+  - {fileID: 7254587821418372789, guid: 6c05ae9259a8fb140b5c4451dfa66c5c, type: 3}
+  - {fileID: 7254587821418372789, guid: 6c05ae9259a8fb140b5c4451dfa66c5c, type: 3}
 --- !u!114 &3519976166423854462
 MonoBehaviour:
   m_ObjectHideFlags: 0

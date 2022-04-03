@@ -12,6 +12,13 @@ public class PlayerMovement : MonoBehaviour
 
     public Vector2 inputVector;
 
+
+    public float minX;
+    public float maxX;
+
+    public float minY;
+    public float maxY;
+    
     public void Move(InputAction.CallbackContext ctx)
     {
         inputVector = ctx.ReadValue<Vector2>();
@@ -22,6 +29,8 @@ public class PlayerMovement : MonoBehaviour
         if (inputVector != Vector2.zero)
         {
             inputVector.Normalize();
+            
+            
             transform.Translate(new Vector3(inputVector.x * horizotalSpeed, inputVector.y * verticalSpeed, 0) * Time.fixedDeltaTime);
         }
     }

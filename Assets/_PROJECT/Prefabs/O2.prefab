@@ -224,7 +224,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 22cbbd64efaa67949a77a72fd388d07c, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  replenishAmount: 20
+  replenishAmount: 30
   pickupEffect: {fileID: 6320547088207884952, guid: 972e4cd74f63cac40bdb1a3bb570683e, type: 3}
 --- !u!114 &487797122580013886
 MonoBehaviour:

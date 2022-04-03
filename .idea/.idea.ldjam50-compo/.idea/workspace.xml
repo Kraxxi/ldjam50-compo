@@ -3,15 +3,17 @@
   <component name="ChangeListManager">
     <list default="true" id="d73d5954-4fc0-4919-b30b-a928a94a8ee5" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/.idea.ldjam50-compo/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.ldjam50-compo/.idea/contentModel.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.ldjam50-compo/.idea/indexLayout.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.ldjam50-compo/.idea/indexLayout.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.ldjam50-compo/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.ldjam50-compo/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_PROJECT/Art/OpenGameArt/Scrolling Background/Materials/bg_space_seamless.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/_PROJECT/Art/OpenGameArt/Scrolling Background/Materials/bg_space_seamless.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_PROJECT/Prefabs/Default Button.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/_PROJECT/Prefabs/Default Button.prefab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_PROJECT/Prefabs/HP.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/_PROJECT/Prefabs/HP.prefab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_PROJECT/Prefabs/O2.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/_PROJECT/Prefabs/O2.prefab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_PROJECT/Prefabs/Player.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/_PROJECT/Prefabs/Player.prefab" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/_PROJECT/Scenes/Game.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/_PROJECT/Scenes/Game.unity" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/_PROJECT/Scenes/MainMenu.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/_PROJECT/Scenes/MainMenu.unity" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/_PROJECT/Scripts/GameState.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/_PROJECT/Scripts/GameState.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/_PROJECT/Scripts/MainMenu.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/_PROJECT/Scripts/MainMenu.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Packages/manifest.json" beforeDir="false" afterPath="$PROJECT_DIR$/Packages/manifest.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Packages/packages-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/Packages/packages-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectSettings/TagManager.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/TagManager.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_PROJECT/Scripts/EnemySpawner.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/_PROJECT/Scripts/EnemySpawner.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_PROJECT/Scripts/MoveSideToSide.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/_PROJECT/Scripts/MoveSideToSide.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_PROJECT/Scripts/PlayerMovement.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/_PROJECT/Scripts/PlayerMovement.cs" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -23,13 +25,8 @@
   </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/Assets/_PROJECT/Scripts/GameState.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/PlayerDeath.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/_PROJECT/Scripts/DestroyAfterTime.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/GameOverPanel.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/SceneLoader.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/yScroller.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/_PROJECT/Scripts/MainMenu.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/KillCounter.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/_PROJECT/Scripts/OxygenPickup.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
@@ -75,14 +72,16 @@
       <option value="$PROJECT_DIR$/Assets/_PROJECT/Scripts/HealthPickup.cs" />
       <option value="$PROJECT_DIR$/Assets/_PROJECT/Scripts/EnnemySpawner.cs" />
       <option value="$PROJECT_DIR$/Assets/SceneLoader.cs" />
-      <option value="$PROJECT_DIR$/Assets/_PROJECT/Scripts/EnemySpawner.cs" />
       <option value="$PROJECT_DIR$/Assets/_PROJECT/Scripts/Killable.cs" />
       <option value="$PROJECT_DIR$/Assets/KillCounter.cs" />
       <option value="$PROJECT_DIR$/Assets/_PROJECT/Scripts/GameManager.cs" />
-      <option value="$PROJECT_DIR$/Assets/GameOverPanel.cs" />
       <option value="$PROJECT_DIR$/Assets/_PROJECT/Scripts/PlaySoundOnSpawn.cs" />
       <option value="$PROJECT_DIR$/Assets/PlayerDeath.cs" />
       <option value="$PROJECT_DIR$/Assets/_PROJECT/Scripts/GameState.cs" />
+      <option value="$PROJECT_DIR$/Assets/GameOverPanel.cs" />
+      <option value="$PROJECT_DIR$/Assets/_PROJECT/Scripts/EnemySpawner.cs" />
+      <option value="$PROJECT_DIR$/Assets/_PROJECT/Scripts/MoveSideToSide.cs" />
+      <option value="$PROJECT_DIR$/Assets/_PROJECT/Scripts/PlayerMovement.cs" />
     </changedPaths>
   </component>
   <component name="ProjectId" id="27EUbf5Mcgro6GEOwHLnf3PIUcw" />
@@ -132,7 +131,7 @@
       <option name="presentableId" value="Default" />
       <updated>1648884816636</updated>
       <workItem from="1648884852586" duration="2546000" />
-      <workItem from="1648968969903" duration="17555000" />
+      <workItem from="1648968969903" duration="19838000" />
     </task>
     <servers />
   </component>

@@ -25,7 +25,8 @@ public class EnemySpawner : MonoBehaviour
 
     public float minTargetY;
     public float maxTargetY;
-    
+
+    public SpriteHolder enemyModels;
 
     private void Start()
     {
@@ -36,7 +37,7 @@ public class EnemySpawner : MonoBehaviour
     {
         elapsedTime = Time.time;
 
-        maxEnemies = (int) (elapsedTime / 10) + 1;
+        maxEnemies = (int) (elapsedTime / 10) + 3;
     }
 
     IEnumerator SpawnRoutine()
@@ -60,6 +61,8 @@ public class EnemySpawner : MonoBehaviour
                 if (spawnedEnemies.Count < maxEnemies)
                 {
                     GameObject enemy = Instantiate(enemyPrefabs[Random.Range(0, enemyPrefabs.Count)], spawnPos, transform.rotation);
+                    SpriteRenderer enemyRenderer = enemy.GetComponent<SpriteRenderer>();
+                    enemyRenderer.sprite = enemyModels.models[Random.Range(0, enemyModels.models.Count)];
                     MoveToYPosition moveToYPosition = enemy.GetComponent<MoveToYPosition>();
                     moveToYPosition.targetY = Random.Range(minTargetY, maxTargetY);
                     spawnedEnemies.Add(enemy);

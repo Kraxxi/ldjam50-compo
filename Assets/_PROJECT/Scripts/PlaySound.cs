@@ -17,7 +17,7 @@ public class PlaySound : MonoBehaviour
     public void Play()
     {
         audioSource.clip = clips[Random.Range(0, clips.Count)];
-        audioSource.pitch = Random.Range(minPitch, maxPitch) * sfxVolume.value;
+        audioSource.pitch = Random.Range(minPitch, maxPitch);
         audioSource.volume = Random.Range(minVolume, maxVolume) * sfxVolume.value;
         audioSource.Play();
     }

@@ -23,6 +23,9 @@
                 <e p="License.txt" t="Include" />
                 <e p="README.txt" t="Include" />
               </e>
+              <e p="Raining Bits" t="Include">
+                <e p="License.txt" t="Include" />
+              </e>
             </e>
           </e>
           <e p="Scripts" t="Include">
@@ -36,9 +39,11 @@
             <e p="FloatSettingApplier.cs" t="Include" />
             <e p="FloatVar.cs" t="Include" />
             <e p="GameManager.cs" t="Include" />
+            <e p="GameOverPanel.cs" t="Include" />
             <e p="GameState.cs" t="Include" />
             <e p="HealthPickup.cs" t="Include" />
             <e p="Killable.cs" t="Include" />
+            <e p="KillCounter.cs" t="Include" />
             <e p="LaserGun.cs" t="Include" />
             <e p="LootSpawner.cs" t="Include" />
             <e p="MainMenu.cs" t="Include" />
@@ -46,18 +51,17 @@
             <e p="MoveToYPosition.cs" t="Include" />
             <e p="OxygenPickup.cs" t="Include" />
             <e p="OxygenUser.cs" t="Include" />
+            <e p="PlayerDeath.cs" t="Include" />
             <e p="PlayerMovement.cs" t="Include" />
             <e p="PlaySound.cs" t="Include" />
             <e p="PlaySoundOnSpawn.cs" t="Include" />
+            <e p="SceneLoader.cs" t="Include" />
             <e p="ScrollingBackground.cs" t="Include" />
             <e p="SkinLoader.cs" t="Include" />
             <e p="SpriteHolder.cs" t="Include" />
+            <e p="yScroller.cs" t="Include" />
           </e>
         </e>
-        <e p="GameOverPanel.cs" t="Include" />
-        <e p="KillCounter.cs" t="Include" />
-        <e p="PlayerDeath.cs" t="Include" />
-        <e p="SceneLoader.cs" t="Include" />
         <e p="TextMesh Pro" t="Include">
           <e p="Fonts" t="Include">
             <e p="LiberationSans - OFL.txt" t="Include" />
@@ -89,7 +93,6 @@
             <e p="EmojiOne Attribution.txt" t="Include" />
           </e>
         </e>
-        <e p="yScroller.cs" t="Include" />
       </e>
       <e p="ldjam50-compo.sln" t="IncludeFlat" />
       <e p="obj" t="ExcludeRecursive" />
