@@ -4,17 +4,7 @@
     <list default="true" id="d73d5954-4fc0-4919-b30b-a928a94a8ee5" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/.idea.ldjam50-compo/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.ldjam50-compo/.idea/contentModel.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.ldjam50-compo/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.ldjam50-compo/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/_PROJECT/Art/OpenGameArt/Scrolling Background/Materials/bg_space_seamless.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/_PROJECT/Art/OpenGameArt/Scrolling Background/Materials/bg_space_seamless.mat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/_PROJECT/Prefabs/Default Button.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/_PROJECT/Prefabs/Default Button.prefab" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/_PROJECT/Prefabs/HP.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/_PROJECT/Prefabs/HP.prefab" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/_PROJECT/Prefabs/O2.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/_PROJECT/Prefabs/O2.prefab" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/_PROJECT/Prefabs/Player.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/_PROJECT/Prefabs/Player.prefab" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/_PROJECT/Scenes/Game.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/_PROJECT/Scenes/Game.unity" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/_PROJECT/Scenes/MainMenu.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/_PROJECT/Scenes/MainMenu.unity" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/_PROJECT/Scripts/EnemySpawner.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/_PROJECT/Scripts/EnemySpawner.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/_PROJECT/Scripts/MoveSideToSide.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/_PROJECT/Scripts/MoveSideToSide.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/_PROJECT/Scripts/PlaySound.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/_PROJECT/Scripts/PlaySound.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/_PROJECT/Scripts/PlayerMovement.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/_PROJECT/Scripts/PlayerMovement.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_PROJECT/Scripts/DontDestroy.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/_PROJECT/Scripts/DontDestroy.cs" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -32,7 +22,6 @@
   </component>
   <component name="IdeDocumentHistory">
     <changedPaths>
-      <option value="$PROJECT_DIR$/Assets/MusicSource.cs" />
       <option value="$PROJECT_DIR$/Assets/FloatVar.cs" />
       <option value="$PROJECT_DIR$/Assets/MainMenu.cs" />
       <option value="$PROJECT_DIR$/Assets/FloatSettingApplier.cs" />
@@ -83,6 +72,7 @@
       <option value="$PROJECT_DIR$/Assets/_PROJECT/Scripts/PlayerMovement.cs" />
       <option value="$PROJECT_DIR$/Assets/_PROJECT/Scripts/PlaySound.cs" />
       <option value="$PROJECT_DIR$/Assets/_PROJECT/Scripts/EnemySpawner.cs" />
+      <option value="$PROJECT_DIR$/Assets/_PROJECT/Scripts/DontDestroy.cs" />
     </changedPaths>
   </component>
   <component name="ProjectId" id="27EUbf5Mcgro6GEOwHLnf3PIUcw" />
@@ -132,7 +122,7 @@
       <option name="presentableId" value="Default" />
       <updated>1648884816636</updated>
       <workItem from="1648884852586" duration="2546000" />
-      <workItem from="1648968969903" duration="20677000" />
+      <workItem from="1648968969903" duration="21045000" />
     </task>
     <servers />
   </component>
